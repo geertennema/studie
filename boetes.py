@@ -1,5 +1,5 @@
-MIN_SPEED = 60
-MAX_SPEED = 110
+MIN_SPEED = 70
+MAX_SPEED = 130
 
 def hoogteBoete(speed):
     
